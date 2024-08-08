@@ -1,8 +1,8 @@
 # How to create a file using the Terminal - macOS
-
+![Terminal on Macbook](https://help.apple.com/assets/63FFD63D71728623E706DB4F/63FFD63E71728623E706DB56/en_US/4e8328e6927032645dfb715a76f5a527.png)
 ### 1. Open Terminal Application
 
-- On macOS: Open *Spotlight* by pressing the *'Command + Spacebar'* buttons on your keyboard, then type "Terminal" and open the application by pressing the *'Enter'* keyg.
+- On macOS: Open *Spotlight* by pressing the *'Command + Spacebar'* buttons on your keyboard, then type "Terminal" and open the application by pressing the *'Enter'* key.
 
 ### 2. Go to Specific Directory where the file should live 
 - To access the specific directory, use the **cd** command to enter the directory where want to create the file.
