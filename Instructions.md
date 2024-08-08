@@ -10,8 +10,18 @@ To access the specific directory, use the **cd** command to enter the directory 
 _For example:_
 
 ```javascript
-~cd/code/ga/labs
+~cd/code/ga/labs/intro-to-markdown-lab
 ```
 
 ### 3. Creating your new file
-To create a new file, you can use the **touch** command to create a new file within your desired directory.
+To create a new file, you can use the **touch** command to create a new file within your desired directory. 
+
+_For example:_
+```javascript
+touch Instructions.md 
+```
+*Example for creating multiple new files at once:*
+```javascript
+touch Instructions.md index.html app.js
+```
+> When creating multiple files we name them one after another making sure to seperate them with a space -- without additional code or symbols.
