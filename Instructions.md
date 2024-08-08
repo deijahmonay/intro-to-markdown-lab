@@ -2,7 +2,7 @@
 
 ### 1. Open Terminal Application
 
-- On macOS: Open On your keyboard (using Spotlight), press 'Command + Spacebar' and then type "Terminal" and open the application by pressing the 'Enter'.
+- On macOS: Open *Spotlight* by pressing the *'Command + Spacebar'* buttons on your keyboard, then type "Terminal" and open the application by pressing the *'Enter'* keyg.
 
 ### 2. Go to Specific Directory where the file should live 
 - To access the specific directory, use the **cd** command to enter the directory where want to create the file.
